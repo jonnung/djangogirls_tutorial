@@ -11,6 +11,8 @@
 
 ## Django Tutorials
   - Django Girls
-  http://tutorial.djangogirls.org/ko/
+    - http://tutorial.djangogirls.org/ko/
+    - Demo: http://jonnung.pythonanywhere.com/blog/
   - DjangoProject
-  https://docs.djangoproject.com/en/1.9/intro/tutorial01/
+    - https://docs.djangoproject.com/en/1.9/intro/tutorial01/
+    - Demo: http://jonnung.pythonanywhere.com/polls/
